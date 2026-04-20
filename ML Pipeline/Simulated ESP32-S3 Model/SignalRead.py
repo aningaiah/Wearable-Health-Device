@@ -1,7 +1,7 @@
 import serial
 
 # Change 'COM3' to your Arduino's specific port (e.g., '/dev/cu.usbmodem...' on Mac)
-arduino_port = 'COM7' 
+arduino_port = 'COM5' 
 baud_rate = 115200
 
 # Open the serial port
